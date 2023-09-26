@@ -37,7 +37,12 @@ rosrun rviz rviz -d sdc-2023/rviz_config.rviz
 ```
 python -B sdc-2023/pub_sensors.py
 ```
-
+```
+python -B sdc-2023/lidar_camera_project.py
+```
+```
+python -B sdc-2023/lidar_radar_project.py
+```
 
 ## Video
 [![](https://img.youtube.com/vi/tlw3QJ4NaRs/0.jpg)](https://youtu.be/tlw3QJ4NaRs)
