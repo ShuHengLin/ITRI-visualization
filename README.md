@@ -14,9 +14,14 @@ python -B radar2img.py
 ```
 For further details, please refer to [Oxford robotcar-dataset-sdk](https://github.com/ori-mrg/robotcar-dataset-sdk/blob/master/python/radar.py).
 
-* Save camera:
+* Save camera timestamps to a `.txt` file:
 ```
 python -B rosbag_camera_timestamp.py
+```
+
+* Subscribe and save camera images (this will cost a lot of time):
+```
+rosbag play --pause cameras.bag -r 0.02
 ```
 ```
 python -B rosbag_subscribe_camera.py
