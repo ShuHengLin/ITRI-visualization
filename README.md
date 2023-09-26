@@ -35,6 +35,5 @@ python -B sdc-2023/pub_sensors.py
 
 
 ## Video
-
-https://youtu.be/tlw3QJ4NaRs  
-https://youtu.be/89CzDpNCrdY
+[![](https://img.youtube.com/vi/tlw3QJ4NaRs/0.jpg)](https://youtu.be/tlw3QJ4NaRs)
+[![](https://img.youtube.com/vi/89CzDpNCrdY/0.jpg)](https://youtu.be/89CzDpNCrdY)
